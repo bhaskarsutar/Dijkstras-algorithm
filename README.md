@@ -1,6 +1,6 @@
-# Dijkstras-algorithm
+# Dijkstra's-algorithm
 
-#### Dijkstras algorithm finds the shortest path between nodes in a network
+#### Dijkstra's algorithm finds the shortest path between nodes in a network
 
 In the shortest path problem, we need to determine the shortest distance from a source to all other nodes or vertices in a
 graph. 
